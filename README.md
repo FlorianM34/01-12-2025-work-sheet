@@ -1,4 +1,3 @@
-# 01-12-2025-work-sheet
+# 30-04-2026-work-sheet
 
-Setup du nouveau proxmox : incluant création du pfsens et configuration des vlan wlan
-Configuration des vms 
+Essaye d'installer ELK mais problème avec le firewall donc bloqué ... 
